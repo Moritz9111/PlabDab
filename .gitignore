@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+.idea/
+.claude/
+
+# Large data files not needed for the app
+data-dev/chunks/
+data-dev/models/
+data-dev/kasearch_db/
+data-dev/stats/
+data-dev/failed_to_pair.csv.gz
+data-dev/unpaired_sequences*.csv.gz
+data-dev/paired_sequences.csv.gz
+data-dev/log.txt
+data-dev/config.json
